@@ -4,6 +4,7 @@
 import angr
 
 def patch_0(state):
+    print 'a'
     pass
 
 
